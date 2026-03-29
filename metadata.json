@@ -1,0 +1,8 @@
+{
+  "name": "Nexus AI Toolkit",
+  "description": "All-in-One AI Toolkit featuring Chat, Voice Translation, Image to Prompt, Text to Speech, and Image Generation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
